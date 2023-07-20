@@ -1,0 +1,19 @@
+baseURL = 'https://alho.fi/'
+languageCode = 'fi'
+title = 'ALHO'
+theme = 'PaperMod'
+
+defaultContentLanguage = 'fi'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.fi]
+    contentDir = 'content'
+    disabled = false
+    languageCode = 'fi-FI'
+    languageDirection = 'ltr'
+    languageName = 'Suomi'
+    title = 'ALHO'
+    weight = 1
+    [languages.fi.params]
+      subtitle = 'MOTO'
+
