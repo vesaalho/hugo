@@ -32,6 +32,8 @@ Minkä moottoripyörän minä sitten ostin?
 
 Minulle sopivaksi osoittautui BMW F700GS, vuosimalli 2013.
 
+![F700GS](/f700gs-netti.jpg)
+
 * Ajo-asento pystyssä, taustalla minulla on selkäongelmia.
 * Enduro tyyppinen, aikomus ajaa asfalttia ja soraa.
 * Mittasuhteet sopivat omaan kokoon.
