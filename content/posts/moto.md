@@ -1,14 +1,16 @@
 ---
 title: "Vinkkejä moottoripyöräilyn aloittamiseen"
-date: 2023-07-20T07:56:23+03:00
+date: 2023-07-21T07:56:23+03:00
 ---
+
+![Motorcycle](/motorcycle.jpg)
 
 Minulla on nyt ollut A-kortti n. kuukauden. Pohjalla B-kortti. Ajattelin kirjoitella omia kokemuksia jos niistä olisi vaikka apua muillekin.
 
 Tausta:
 
 * Ikä: 43 vuotta
-* Pituus: 172cm
+* Pituus: 172 cm
 * Aiempi ajokokemus oli aikalailla nolla, ei mopoa nuorena, vain hieman ajellut kaverien mopoilla.
 
 Olin haaveillut kortin ajamisesta jo pidempään. Sitten palaset alkoi loksahdella elämässä. Tähän liittyi mm. kaveri jolla on paljon ajokokemusta ja hän omisti silläkin hetkellä kolme eri pyörää. Hänen apunsa oli korvaamaton tuki. Lisäksi toinen kokenut kaveri eri paikkakunnalla sekä erilaiset Facebook ryhmät auttoivat ja edelleen auttavat harrastuksessa. Monta virhettä olisin tehnyt ilman näitä apuja.
@@ -41,7 +43,7 @@ Minulle sopivaksi osoittautui BMW F700GS, vuosimalli 2013.
 * Renkaiden ilmanpaineiden hälytin.
 * Rikkinäisten lamppujen hälytin.
 * Kaatumaraudat valmiina, nämä ovat olleet tarpeen!
-* Hintalappu oli 10 000e. Halvempia vaihtoehtoja löytyy jos haluaa.
+* Hintalappu oli 10 000e. Halvempia vaihtoehtoja löytyy paljonkin.
 
 ## Lisävarusteet
 
@@ -68,11 +70,13 @@ Suunnitelmia:
 
 ## Ajovarusteet
 
-Mites sitten ajovarusteet? Niitä rupesin hankkimaan jo keväällä ennen ajo-opetuksen aloitusta. Etsiskelin tietoa netistä ja kyselin Facebook ryhmistä. Ei kannata pihistellä laadussa ja ostaa halvinta! MP liikkeistä saa hyviä neuvoja myöskin. Budjetoi kunnolla varusteisiin, esimerkkinä maksoin pyörästä 10 000e ja varusteisiin on mennyt n. 3000eur. Yhtään en ole katunut varusteisiin panostamista.
+Mites sitten ajovarusteet? Niitä rupesin hankkimaan jo keväällä ennen ajo-opetuksen aloitusta. Etsiskelin tietoa netistä ja kyselin Facebook ryhmistä. Ei kannata pihistellä liikaa laadussa ja ostaa halvinta! MP liikkeistä saa hyviä neuvoja. En ole katunut kun olen panostanut
+heti alussa. Toki ei aina heti tiedä mikä itselle on sopivinta.
 
 **Kypärä**
 
-Tärkein yksittäinen varuste. Älä pihistele. Minulle sopivaksi osoittautui Shoei Neotec 2. Olen tykännyt kun se on avattava malli eli koko etuosan saa nostettua ylös tarvittaessa. Mutta on tärkeää, että kypärä on sopiva juuri sinun päällesi. Muutama nimeltä mainittava vaihtoehtomerkki on Schuberth, Arai, Sena. Kypäräni maksoi 580eur ja siihen päälle vielä Senan kypäräpuhelin 369eur. Ei siis halpa, mutta joka pennin arvoinen. Aurinkovisiiri, Pinlock kalvo, sisäpehmikkeet saa irti helposti pesua varten, visiireitä ja muita varaosia saa ostettua tarpeen mukaan erikseen.
+Tärkein yksittäinen varuste. Älä pihistele. Minulle sopivaksi osoittautui Shoei Neotec 2. Olen tykännyt kun se on avattava malli eli koko etuosan saa nostettua ylös tarvittaessa. Tästä oli apua myös ajo-opetuksessa kun näkyvyys alaspäin on parempi kun etuosa on ylhäällä.
+Mutta on tärkeää, että kypärä on sopiva juuri sinun päällesi. Muutama nimeltä mainittava vaihtoehtomerkki on Schuberth, Arai, Sena. Kypäräni maksoi 580e ja siihen päälle vielä Senan kypäräpuhelin 369e. Ominaisuuksissa aurinkovisiiri, pinlock kalvo, sisäpehmikkeet saa irti helposti pesua varten, visiireitä ja muita varaosia saa ostettua tarpeen mukaan erikseen. Huomaa käsitellä kypärää varovasti. Puhdistus vedellä ja varovasti mikrokuituliinalla. Mitä vähemmän hierot, sen parempi.
 
 **Kypärähuppu**
 
@@ -89,7 +93,7 @@ Itse ostin alkukeväällä Richan Gore-Tex puvun alennuksesta. Sitten lisäksi a
 
 **Ajokerrasto**
 
-Tarvitset vaatteita myös ajopuvun alle. Kaikki konkarit vannoo merinovillan nimeen. Huomasin ainakin, että puuvillapaita alkaa haista pahalle hyvin nopeasti. Itse ostin Svalan merinovillakerraston jota en tosin ole vielä päässyt itse testaamaan. Olen myös käyttänyt ns. teknisiä t-paitoja.
+Tarvitset vaatteita myös ajopuvun alle. Kaikki konkarit vannoo merinovillan nimeen. Huomasin ainakin, että puuvillapaita alkaa haista pahalle hyvin nopeasti. Itse ostin Svalan merinovillakerraston jota en tosin ole vielä testannut. Olen myös käyttänyt ns. teknisiä t-paitoja.
 
 **Ajokengät ja saappaat**
 
@@ -100,14 +104,15 @@ Ajosaapas on kaikkein turvallisin, mutta myös kuumin. Minulla on Gore-Tex ajosa
 Tulet tarvitsemaan ainakin kahdet ellei jopa kolmet. Yhdet lämpimälle säälle ilman kalvoa, yhdet sadekelille ja yhdet kylmälle säälle.
 
 * Rukka AFT, hyvät lämpimälle säälle mutta eivät pidä vettä.
-* Rukka Mars 2.0, kylmälle säälle (hankintalistalla vielä)
+* Rukka Mars 2.0, kylmälle säälle (hankintalistalla vielä).
 * Lisäksi joku välikelin Gore-Tex malli kun sataa mutta ei ole turhan kylmä.
 
 ## Loppusanat
 
 * Pidä kunnon ajovarusteita AINA ajossa! Et tiedä koska tulet kaatumaan. Tulee osumaa vaikka olisi hiljainen vauhti tai kaadat pyörän ihan paikaltaan. Itse olen kaatanut pyöräni jo kaksi kertaa, onneksi paikallaan tai pienessä vauhdissa. Ihan hullua ajaa shortseilla tai edes tavallisilla housuilla.
 * Yritä ajaa mahdollisimman usein! Tarvitset kaiken harjoituksen. Kannattaa myös pohtia harjoittelua jossain radoilla cross/enduro pyörällä jotta osaat sitten toimia paremmin ääritilanteissa ja opit muutenkin pyörän hallintaa sekä kaatumista.
-* Ajaminen sadekelillä on oma lukunsa. En ole vielä kovassa kaatosateessa ajanut mutta lukenut että helposti kannattaa mennä tien sivuun odottamaan kuuron laantumista. Päätä kääntelemällä aavistus vasemmalla ja oikealle voi saada visiirin keskelle hieman näkyvyyttä.
+* Sadekeli vaatii omaa harjoittelua. Näkyvyys on haaste koska kypärässä ei ole pyyhkimiä. Siihen kun yhdistää tieurat ja huonokuntoisen tien niin saa olla kieli keskellä suuta. Kannattaa pohtia herkästi tien sivuun ajamista jos sadekuuro yltyy kovaksi.
+Lisäksi kosteus hitaassa nopeudessa aiheuttaa huurua ja kun siihen yhdistää silmälasit niin saa visiiriä nostella. Päätä kääntelemällä aavistus vasemmalla ja oikealle voi saada visiirin keskelle hieman näkyvyyttä. Jotkut jopa käsittelevät visiireitä aineilla jotta sadepisarat liikkuisivat paremmin pois. Siinä kannattaa pitää mielessä ettei naarmuta tai vahingoita visiiriä koska periaatteessa mitä vähempi siihen koskeen, sen parempi.
 * Osallistu MC kerhojen toimintaan. Sieltä saa seuraa, neuvoja ja ajo-opetuspäiviäkin. Yhtenä voisi mainita moottoripyörä.org.
 * Huomioliivit ainakin pidemmällä matkalla ei haittaa koskaan. Haluat olla mahdollisimman näkyvä muille.
 
